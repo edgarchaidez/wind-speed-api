@@ -1,0 +1,2 @@
+/Users/edgar/Downloads/restfulApi/WindServiceTryItApp/obj/Debug/WindServiceTryItApp.csprojAssemblyReference.cache
+/Users/edgar/Downloads/restfulApi/WindServiceTryItApp/obj/Debug/WindServiceTryItApp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "windEnergyService", "windEnergyService.csproj", "{9962F4B1-5798-426B-AAB3-955570EBDDEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindServiceTryItApp", "..\WindServiceTryItApp\WindServiceTryItApp.csproj", "{556794BD-C817-4F1D-A389-FF3F62F68E98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9962F4B1-5798-426B-AAB3-955570EBDDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9962F4B1-5798-426B-AAB3-955570EBDDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9962F4B1-5798-426B-AAB3-955570EBDDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9962F4B1-5798-426B-AAB3-955570EBDDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556794BD-C817-4F1D-A389-FF3F62F68E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556794BD-C817-4F1D-A389-FF3F62F68E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556794BD-C817-4F1D-A389-FF3F62F68E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556794BD-C817-4F1D-A389-FF3F62F68E98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A139B9E4-A1E9-49B8-80C8-A4F4FFF8518B}
+	EndGlobalSection
+EndGlobal
